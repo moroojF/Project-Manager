@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: "Comic Sans MS", cursive, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.textStyle{
+  -webkit-text-stroke: 1px white;
+}
+
+h5{
+  font-size: 25px !important;
+}
